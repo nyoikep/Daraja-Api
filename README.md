@@ -1,12 +1,12 @@
 # Full M-Pesa Daraja API with PHP
 
-Author: Alvin Kiveu
+Author: Peter Maina
 Description: Mpesa Daraja API with Node JS
-Date: 23/10/2023
-Github Link: https://github.com/alvin-kiveu/Mpesa-Daraja-Api-NODE.JS.git
-Website: www.umeskiasoftwares.com
-Email: info@umeskiasoftwares.com
-Phone: +254113015674
+Date: 23/04/2024
+Github Link: https://github.com/nyoikep/Mpesa-Daraja-Api-NODE.JS.git
+Website: www.safiworks.netlify.app
+Email: safiworkske@gmail.com
+Phone: =254722358904
 
 
 Welcome to the complete implementation of the M-Pesa Daraja API using PHP. This project aims to provide you with a comprehensive guide and code examples to seamlessly integrate the M-Pesa Daraja API into your PHP applications.
